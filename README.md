@@ -28,4 +28,18 @@ op gaming 解决方案
 
 ## demo 演示
 
+    1. 部署1155 代币合约
+        1. name
+        2. symbol
+    2. 添加 NFT 代币
+        1. name
+        2. description
+        3. image
+        4. properties
+        5. inventory 100
+    3. 购买落地页 list
+    4. 购买详情页
+        介绍和购买按钮
+    5. 交易落地页
+
 ## 团队介绍
